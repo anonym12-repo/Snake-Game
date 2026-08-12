@@ -34,7 +34,7 @@ selectable difficulty, a live score bar, and a game-over screen with a one-click
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/snake-game.git
+git clone 
 cd snake-game
 
 # 2. Install dependencies
