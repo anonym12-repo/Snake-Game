@@ -2,6 +2,11 @@
 
 <img width="626" height="725" alt="{375C1B9F-A9C1-49AB-9982-00DCBE95C717}" src="https://github.com/user-attachments/assets/7bbb8743-f29b-41ec-b2c0-d7210a54a272" />
 
+<img width="623" height="723" alt="{94B9B575-97A7-4E4C-853D-4D14EECA62D8}" src="https://github.com/user-attachments/assets/f1e20e4e-9a0d-436a-8186-e94bf7601b9f" />
+
+<img width="629" height="724" alt="{73643284-7679-4155-835B-F07F7E5DCCDD}" src="https://github.com/user-attachments/assets/ca4a5808-d93d-49e9-afd0-b5c98ddbb0a5" />
+
+
 A classic Snake game built from scratch in Python with **Pygame**, featuring a full menu system with
 selectable difficulty and visual themes, a persistent all-time high score, sound effects, and smooth
 navigation between the start menu, gameplay, and game-over screen.
