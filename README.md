@@ -1,5 +1,7 @@
 # 🐍 Snake Game
 
+<img width="626" height="725" alt="{375C1B9F-A9C1-49AB-9982-00DCBE95C717}" src="https://github.com/user-attachments/assets/7bbb8743-f29b-41ec-b2c0-d7210a54a272" />
+
 A classic Snake game built from scratch in Python with **Pygame**, featuring a full menu system with
 selectable difficulty and visual themes, a persistent all-time high score, sound effects, and smooth
 navigation between the start menu, gameplay, and game-over screen.
